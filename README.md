@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👋 Hi, I’m @ZhanhaoLi2024
+- 👋 Hi, I’m @总算OK
 - 👀 I’m interested in taking solo walks around the city, snapping photos with vintage rangefinder cameras from the ’70s and ’80s. When I’m not out exploring, I’m diving into web development.
 - 🌱 I’m currently learning Go in my spare time while taking graduate courses. I’m almost graduating, but still haven’t found a job yet, which makes me pretty anxious every day. T^T
 - 💞️ I’m looking to collaborate on projects related to CHI (Computer-Human Interaction). I’ve noticed that some of my friends have really unique insights into design, and I think it would be amazing to collaborate with them on an interesting project that combines both design and technology.
